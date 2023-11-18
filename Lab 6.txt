@@ -5,7 +5,6 @@ Created on Sun Nov  6 19:45:05 2022
 """
 #Lab 6
 #Manar Elbeshbishy
-#501089420
 
 
 import math
