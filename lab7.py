@@ -2,12 +2,10 @@
 """
 Created on Tue Nov  8 14:23:59 2022
 
-@author: elbes
 """
 
 #Lab 7
 #Manar Elbeshbishy
-#501089420
 
 import random
 

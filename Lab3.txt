@@ -2,7 +2,6 @@
 
 #Manar Elbeshbishy
 
-#Student ID: 501089420
 
 
 def question_1():

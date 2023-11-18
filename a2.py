@@ -1,5 +1,4 @@
 #Manar Elbeshbishy
-#501089420
 #Assignment 2
 
 def only_odd_digits(n):

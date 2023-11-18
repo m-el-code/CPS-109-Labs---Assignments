@@ -2,7 +2,6 @@
 """
 Created on Sun Nov  6 19:45:05 2022
 
-@author: elbes
 """
 #Lab 6
 #Manar Elbeshbishy

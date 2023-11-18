@@ -2,7 +2,6 @@
 """
 Created on Sat Oct 22 18:56:22 2022
 
-@author: elbes
 """
 
 #Assignment 1
