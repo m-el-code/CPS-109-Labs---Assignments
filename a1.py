@@ -6,7 +6,6 @@ Created on Sat Oct 22 18:56:22 2022
 
 #Assignment 1
 #Manar Elbeshbishy
-#501089420
 
 #Problem: Create a program to calculate the grade needed on the final to get 'x' grade as a final mark, and determine if it is a passing grade in the course.
 
